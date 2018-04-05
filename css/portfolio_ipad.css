@@ -1,0 +1,48 @@
+.container{
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+/*
+*
+*header
+*
+*/
+
+.header_logo {
+  height: 150px;
+}
+
+.header_name {
+  font-size: 7em;
+}
+
+.header_position {
+  font-size: 2.5em;
+}
+
+.content_inner{
+  height:450px;
+  width:100%;
+  margin-bottom: 3em;
+}
+
+/*
+*
+*link
+*
+*/
+
+.link_title{
+  font-size: 4em;
+}
+
+.img_description{
+  font-size: 3em;
+}
+
+#item1,#item2{
+  width:50%;
+}
