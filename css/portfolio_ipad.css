@@ -1,4 +1,4 @@
-.container{
+.container {
   width: 900px;
   margin-left: auto;
   margin-right: auto;
@@ -11,22 +11,20 @@
 *
 */
 
-.header_logo {
+.header-logo {
   height: 150px;
 }
 
-.header_name {
+.header-name {
   font-size: 7em;
 }
 
-.header_position {
+.header-position {
   font-size: 2.5em;
 }
 
-.content_inner{
-  height:450px;
-  width:100%;
-  margin-bottom: 3em;
+.paragraph {
+  font-size: 2em;
 }
 
 /*
@@ -35,14 +33,26 @@
 *
 */
 
-.link_title{
+.link-title {
   font-size: 4em;
 }
 
-.img_description{
+.img-description {
   font-size: 3em;
 }
 
-#item1,#item2{
-  width:50%;
+.item1 {
+  width: 50%;
+}
+
+.item2 {
+  width: 50%;
+}
+
+.item3 {
+  width: 100%;
+}
+
+.item-image {
+  object-fit: cover;
 }
