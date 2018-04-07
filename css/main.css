@@ -39,7 +39,7 @@ div {
   flex: 1 100%;
 }
 
-.box{
+.box {
   height: 100%;
 }
 
@@ -70,7 +70,9 @@ div {
 }
 
 .header-title {
-  display: inline-block;
+  display: flex;
+  flex-direction: column;
+  text-align: right;
 }
 
 .header-name {
@@ -87,7 +89,7 @@ div {
   font-family: Arial;
   margin-right: 10px;
   color: #2d3c49;
-  float: right;
+
 }
 
 /*
